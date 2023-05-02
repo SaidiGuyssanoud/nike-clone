@@ -1,0 +1,57 @@
+
+<ul>
+    <li class="menu-title">
+    <a href="http://" >Nouveautés et articles du moment</a>
+    </li>
+    
+    < class="dropdown-menu">
+
+        <div class="dropdown-card new-product">
+            <a href="">En ce moment</a>
+            <a href="">Voir toutes les nouveautés</a>
+            <a href="">Nouveautés chaussures</a>
+            <a href="">Nouveautés vêtements</a>
+            <a href="">Prochaines sorties SNKRS</a>
+            <a href="">Boutiques réservée aux membres</a>
+        </div>
+
+        <div class="dropdown-card">
+            <a href="">Voir les icônes</a>
+            <a href="">Air Force 1</a>
+            <a href="">Air Jordan 1</a>
+            <a href="">Air Max</a>
+            <a href="">Dunk</a>
+            <a href="">Blazer</a>
+            <a href="">Pegasus</a>
+            <a href="">Mercurial</a>
+        </div>
+
+        <div class="dropdown-card">
+            <a href="">Meilleures lectures</a>
+            <a href="">.Swoosh</a>
+            <a href="">Collection Jordan</a>
+            <a href="">Nike SB - The Vault</a>
+            <a href="">Développement durable</a>
+            <a href="">Actus Nike</a>
+        </div>
+
+        <div class="dropdown-card">
+            <a href="">Guides</a>
+            <a href="">Tous les guides d'achat</a>
+            <a href="">Nike Running Shoe Finder</a>
+            <a href="">Guide des tailles de brassières</a>
+            <a href="">Nike Activity Finder</a>
+        </div>
+    </div>
+                                
+        <li><a href="http://">Homme</a></li>
+
+        <li><a href="http://">Femme</a></li>
+
+        <li><a href="http://">Enfant</a></li>
+
+        <li><a href="http://">Promotions</a></li>
+
+        <li></li><a href="http://">Guides</a>
+    </ul>
+                        
